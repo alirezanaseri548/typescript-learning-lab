@@ -29,3 +29,9 @@ It stores TypeScript compiler settings for the project.
 const compilerMessage: string = "Hello TypeScript Compiler";
 
 console.log(compilerMessage);
+
+/*
+Learning checkpoint:
+The TypeScript compiler checks the code before JavaScript runs.
+This helps catch many mistakes during development.
+*/
