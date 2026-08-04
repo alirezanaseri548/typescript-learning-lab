@@ -80,3 +80,10 @@ const genericNumber = identityGeneric(123);
 // TypeScript knows the exact types here.
 console.log(genericString.toUpperCase());
 console.log(genericNumber.toFixed(2));
+
+/*
+Learning checkpoint:
+Avoid any when possible.
+Use unknown when the value is uncertain and needs runtime checking.
+Use generics when the type should be preserved.
+*/
