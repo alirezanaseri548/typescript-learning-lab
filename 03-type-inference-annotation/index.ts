@@ -41,3 +41,9 @@ let annotatedAge: number = 27;
 
 console.log("City:", inferredCity);
 console.log("Age:", annotatedAge);
+
+/*
+Learning checkpoint:
+Type inference keeps the code clean.
+Type annotation makes the developer's intention explicit.
+*/
