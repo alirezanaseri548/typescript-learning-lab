@@ -29,3 +29,9 @@ let username: string = "Alireza";
 // username = 25;
 
 console.log("Username:", username);
+
+/*
+Learning checkpoint:
+TypeScript is not a replacement for JavaScript.
+It is a development tool that helps us write safer JavaScript.
+*/
