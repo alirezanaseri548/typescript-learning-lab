@@ -39,3 +39,9 @@ function logMessage(message: string): void {
 const totalScore = sum(10, 20);
 
 logMessage("Total score: " + totalScore);
+
+/*
+Learning checkpoint:
+Typed functions make input and output contracts clear.
+This is very useful when building APIs, services, and reusable modules.
+*/
