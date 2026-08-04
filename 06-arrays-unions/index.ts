@@ -41,3 +41,9 @@ mixedValues.push(2026);
 console.log("Names:", studentNames);
 console.log("Scores:", examScores);
 console.log("Mixed:", mixedValues);
+
+/*
+Learning checkpoint:
+Union types make a value flexible but still controlled.
+They are safer than using any.
+*/
